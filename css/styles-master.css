@@ -1,0 +1,38 @@
+body {
+  background-color: #dee3e2;
+  text-align: center;
+}
+
+h1 {
+  color: #116979;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #DE7119;
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #116979;
+  font-family: 'Montserrat', sans-serif;
+} 
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #116979;
+  line-height: 2;
+}
+
+ul, ol {
+  font-family: 'Montserrat', sans-serif;
+  color: #DE7119;
+  line-height: 2;
+  list-style-position: inside;
+}
+
+
